@@ -23,3 +23,6 @@ h1{color:#111;font-size:clamp(30px,3.35vw,47px)}h1>span{display:inline;font-size
 .comparison-tabs{display:flex;gap:10px;flex-wrap:wrap;margin:26px 0 18px}.comparison-tabs button{font:600 15px "Segoe UI",Arial,sans-serif;border:1px solid #c6d2e2;border-radius:9px;background:white;color:#304868;padding:11px 20px;cursor:pointer}.comparison-tabs button[aria-selected="true"]{background:#213d64;color:white;border-color:#213d64}.comparison-panel[hidden]{display:none}.condition-description{font-size:15px;color:#586478;margin-bottom:10px;min-height:27px}
 
 .research-tagline{max-width:820px;margin:-7px auto 25px;font-size:20px;line-height:1.6;font-weight:450;color:#4c617a;letter-spacing:.05px}@media(max-width:760px){.research-tagline{font-size:17px;margin:0 auto 23px;max-width:620px}}
+
+/* Official Southampton logo on white, matching the ForEnt page. */
+.university-logo{display:block;width:240px;max-width:70%;margin:18px auto 0;background:#fff}.university-logo img{display:block;width:100%;height:auto;filter:brightness(0)}@media(max-width:600px){.university-logo{width:205px}}
